@@ -1,7 +1,7 @@
-%_javapackages_macros
+%{?_javapackages_macros:%_javapackages_macros}
 Name:          maven-common-artifact-filters
 Version:       1.4
-Release:       11.0%{?dist}
+Release:       11.1%{?dist}
 Summary:       Maven Common Artifact Filters
 License:       ASL 2.0
 Url:           http://maven.apache.org/shared/

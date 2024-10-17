@@ -4,7 +4,7 @@ Version:       1.4
 Release:       11.1%{?dist}
 Summary:       Maven Common Artifact Filters
 License:       ASL 2.0
-Url:           http://maven.apache.org/shared/
+Url:           https://maven.apache.org/shared/
 Source0:       http://repo1.maven.org/maven2/org/apache/maven/shared/%{name}/%{version}/%{name}-%{version}-source-release.zip
 BuildArch:     noarch
 
